@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "Old submissions for advent of code 2024 questions.",
+  "homepage": "https://github.com/cobaltorum/AOC-2024#readme",
+  "bugs": {
+    "url": "https://github.com/cobaltorum/AOC-2024/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobaltorum/AOC-2024.git"
+  },
+  "license": "MIT",
+  "author": "cobaltorum",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}

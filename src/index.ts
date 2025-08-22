@@ -1,0 +1,1 @@
+console.log('AOC 2024.')
